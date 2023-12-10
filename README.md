@@ -1,6 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZhdHOFs54RQ/profile-displaybackgroundimage-shrink_350_1400/0/1702156429794?e=1707955200&v=beta&t=2Z3-RoGijR0Zoux5odoQZDPqbVqdKDnBfavcebIUl_I)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cristian Gonzalez</h1>
 <h3 align="center">I am a web developer (Front-End) very dedicated and committed to what I do, Feel free to take a look at my latest projects on my repositorie.</h3>
+<br/>
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiang07&label=Profile%20views&color=0e75b6&style=flat" alt="cristiang07" /> </p>
