@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZhdHOFs54RQ/profile-displaybackgroundimage-shrink_350_1400/0/1702156429794?e=1707955200&v=beta&t=2Z3-RoGijR0Zoux5odoQZDPqbVqdKDnBfavcebIUl_I)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZhdHOFs54RQ/profile-displaybackgroundimage-shrink_350_1400/0/1702156429794?e=1714608000&v=beta&t=V0wIQceDR3d6_8EwIwwgffJ21c-9wNSbInFVBaL7Uus)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cristian Gonzalez</h1>
 <h3 align="center">I am a web developer (Front-End) very dedicated and committed to what I do, Feel free to take a look at my latest projects on my repositorie.</h3>
 <br/>
